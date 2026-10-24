@@ -126,7 +126,7 @@ Install the following tools:
 Clone the repository:
 
 ```bash
-git clone https://github.com/therealWiliiam/defi-stablecoin-project-2026.git
+git clone https://github.com/therealWiliiam/defi-stablecoin-project-2026
 cd <your-project-directory>
 ```
 
